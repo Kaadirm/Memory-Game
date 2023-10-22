@@ -1,5 +1,7 @@
 # Memory Game
 
+![memory](https://github.com/Kaadirm/Memory-Game/assets/141996672/bd055e53-239a-4d65-8996-762d2540e6ca)
+
 ## Description
 
 This repository contains a Memory Game web application where players can test their memory skills by matching pairs of cards. The game is designed to be fun and engaging, challenging players to match all the pairs in the shortest time possible.
